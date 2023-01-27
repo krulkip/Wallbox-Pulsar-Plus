@@ -6,5 +6,6 @@
 * #include "HTTPClient.h"
 * #include "base64.h"
 * #include <ArduinoJson.h>
+![text](https://github.com/krulkip/Wallbox-Pulsar-Plus/raw/main/ArduinoJson.jpg)
 ![text](https://github.com/krulkip/Wallbox-Pulsar-Plus/raw/main/WallboxPulsarPlus.jpg)
  
