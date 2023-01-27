@@ -2,5 +2,5 @@
 * Only basic functionality still work in progress
 * Inspired by https://pypi.org/project/wallbox/ 
 * and https://www.lets-talk-about.tech/2022/08/wallbox-get-most-of-it-with-api.html
-![text](https://github.com/krulkip/Wallbox-Pulsar-Plus/blob/master/WallboxPulsarPlus.jpg?raw=true)
+![text](https://github.com/krulkip/Wallbox-Pulsar-Plus/WallboxPulsarPlus.jpg?raw=true)
  
